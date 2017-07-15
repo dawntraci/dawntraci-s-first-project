@@ -1,0 +1,9 @@
+body {align-content: center}
+h1 {color: darkred}
+h2, h3 {color: maroon}
+p {color: #382020}
+h1 {font-family: sans-serif}
+h2, h3, p {font-family: cursive} 
+h2, h3 {font-size: 25px }
+h1{font-size: 40px}
+
